@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
 
-Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
+> Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md) pages first.
 
