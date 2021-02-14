@@ -2,7 +2,7 @@
 
 ![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md)
 
 
 > Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
@@ -121,7 +121,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
 
-### 📹 Videoes
+### 📹 Videos
 
 - [Understanding how to use Task and ValueTask](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fj-LVS8hqIE)
 
@@ -179,10 +179,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Async Tips
 
 ### 📝 Articles
-
+- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 - [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
 - [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 - [Common C# async and await misconceptions](https://saebamini.com/common-async-and-await-misconceptions/)
+- [Cancel Asynchronous Operation In Csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/) - John Thiriet
+
+### 🔖 Samples
+- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+	> This repository has examples of broken patterns in ASP.NET Core applications
 
 
 ## Concurrency Vs Parallelism
@@ -251,6 +256,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [gRPC and C# 8 Async stream](https://laurentkempe.com/2019/09/18/gRPC-and-csharp-8-Async-stream/)
 
 - [gRPC and C# 8 Async stream cancellation](https://laurentkempe.com/2019/09/25/gRPC-and-csharp-8-Async-stream-cancellation/)
+
 ## Iterators
 
 ### 📝 Articles
@@ -271,7 +277,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Channels
 
-### 📹 Videoes
+### 📹 Videos
 
 - [C# Channels Explained (System.Threading.Channels)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=E0Ld7ZgE4oY)
 
