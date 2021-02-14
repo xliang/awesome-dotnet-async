@@ -174,16 +174,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Thread
 
-
-
 ## Async Tips
 
 ### 📝 Articles
-- [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+- [Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+- [Async and Await: Here be dragons](https://gist.github.com/ghuntley/e5b5642ecc4428255e61185bb79856e4)
 - [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
 - [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 - [Common C# async and await misconceptions](https://saebamini.com/common-async-and-await-misconceptions/)
 - [Cancel Asynchronous Operation In Csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/) - John Thiriet
+- [C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/) - Chris Pratt
+- [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html) - Stephen Cleary
 
 ### 🔖 Samples
 - [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
