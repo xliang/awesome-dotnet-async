@@ -2,7 +2,6 @@
 
 ![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/https://dotnetuniversity.com/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md)
 
 
 > Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform. this repository will be updated continuously, keep yourself up to date 😉
@@ -10,9 +9,6 @@
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-async/blob/master/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
-Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
-
 
 ## Contents
 - [Async-Await](#async-await)
@@ -182,14 +178,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Top 7 Common Async Mistakes](https://hamidmosalla.com/2018/04/21/top-7-common-async-mistakes/)
 - [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 - [Common C# async and await misconceptions](https://saebamini.com/common-async-and-await-misconceptions/)
-- [Cancel Asynchronous Operation In Csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/) - John Thiriet
-- [C# Async Tips & Tricks](https://cpratt.co/async-tips-tricks/) - Chris Pratt
+- [Cancel Asynchronous Operation In Csharp](https://b2n.ir/n06328) - John Thiriet
+- [C# Async Tips and Tricks](https://cpratt.co/async-tips-tricks/) - Chris Pratt
 - [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html) - Stephen Cleary
 
 ### 🔖 Samples
 - [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 	> This repository has examples of broken patterns in ASP.NET Core applications
-
 
 ## Concurrency Vs Parallelism
 
