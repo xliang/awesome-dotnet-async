@@ -110,17 +110,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 ### 📝 Articles
 
 - [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
-
 - [How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)
-
 - [Task, Async Await, ValueTask, IValueTaskSource and how to keep your sanity in modern .NET world](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world/)
-
 - [.NET 5 and pooling for ValueTasks - Scooletz](https://blog.scooletz.com/2020/06/01/pooling-for-value-tasks-in-net5)
 
 ### 📹 Videos
-
-- [Understanding how to use Task and ValueTask](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=fj-LVS8hqIE)
-
+- [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
 
 ## Configure Await
 
@@ -274,35 +269,23 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 ## Channels
 
 ### 📹 Videos
-
-- [C# Channels Explained (System.Threading.Channels)](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=E0Ld7ZgE4oY)
-
+- [C# Channels Explained (System.Threading.Channels)](https://www.youtube.com/watch?v=E0Ld7ZgE4oY)
 - [Working with Channels in .NET](https://channel9.msdn.com/Shows/On-NET/Working-with-Channels-in-NET)
 
 
 ### 📝 Articles
-
 - [An Introduction to System.Threading.Channels - Stephen Toub](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
-
 - [Using Channels In C# .NET Core – Part 1 – Getting Started](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-1-getting-started/)
-
 - [Using Channels In C# .NET Core – Part 2 – Advanced Channels](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-2-advanced-channels/)
-
 - [Using Channels In C# .NET Core – Part 3 – Understanding Back Pressure](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-3-understanding-back-pressure/)
-
 - [AN INTRODUCTION TO SYSTEM.THREADING.CHANNELS](https://www.stevejgordon.co.uk/an-introduction-to-system-threading-channels)
-
 - [Producer/consumer pipelines with System.Threading.Channels](https://blog.maartenballiauw.be/post/2020/08/26/producer-consumer-pipelines-with-system-threading-channels.html)
-
 - [C# Channels - Publish / Subscribe Workflows](https://deniskyashif.com/2019/12/08/csharp-channels-part-1/)
-
 - [C# Channels - Timeout and Cancellation](https://deniskyashif.com/2019/12/11/csharp-channels-part-2/)
-
 - [C# Channels - Async Data Pipelines](https://deniskyashif.com/2020/01/07/csharp-channels-part-3/)
-
 - [How to implement Producer/Consumer with System.Threading.Channels](https://www.davideguida.com/how-to-implement-producer-consumer-with-system-threading-channels/)
-
 - [How to implement Producer/Consumer with System.Threading.Channels](https://www.davideguida.com/consuming-message-queues-using-net-core-background-workers-part-4-adding-system-threading-channels/)
+- [What's the Difference between Channel and ConcurrentQueue in C#?](https://jeremybytes.blogspot.com/2021/02/whats-difference-between-channel-and.html)
 
 ### 🔖 Samples
 
