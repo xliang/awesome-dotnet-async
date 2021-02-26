@@ -49,6 +49,12 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
 - [When to Use Async and Await and How it Works](https://hamidmosalla.com/2018/03/30/when-to-use-async-and-await-and-how-it-works/)
 - [Asynchrony in C# 5 Part Six: Whither async?](https://docs.microsoft.com/en-us/archive/blogs/ericlippert/asynchrony-in-c-5-part-six-whither-async)
+- [Exploring the async/await State Machine – The Awaitable Pattern](https://vkontech.com/exploring-the-async-await-state-machine-the-awaitable-pattern/)
+- [Exploring the async/await State Machine – Main Workflow and State Transitions](https://vkontech.com/exploring-the-async-await-state-machine-main-workflow-and-state-transitions/)
+- [Exploring the async/await State Machine – Conceptual Implementation](https://vkontech.com/exploring-the-async-await-state-machine-conceptual-implementation/)
+- [Dissecting the async methods in C#](https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/)
+- [Extending the async methods in C#](https://devblogs.microsoft.com/premier-developer/extending-the-async-methods-in-c/)
+- [Understanding async/await State Machine in .NET](https://mykkon.work/async-state-machine/)
 
 ## Cancellation
 
@@ -195,8 +201,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [AsyncLocalT in .NET 4.6](https://www.tabsoverspaces.com/233526-asynclocal-t-in-net-46)
 - [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
 - [Multithreaded shared variables and AsyncLocal](https://programmer.help/blogs/multithreaded-shared-variables-and-asynclocal.html)
-
-
 
 ## Thread Safey
 
