@@ -11,11 +11,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Contents
-- [Async-Await](#async-await)
+- [Async And Await](#async-and-await)
 - [Cancellation](#cancellation)
 - [IO-Bound](#io-bound)
 - [Cpu-Bound](#cpu-bound)
 - [TaskCompletionSource](#taskcompletionsource)
+- [Task](#task)
 - [ValueTask](#valuetask)
 - [Configure Await](#configure-await)
 - [Exception Handling](#exception-handling)
@@ -36,9 +37,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Channels](#channels)
 - [Libraries](#libraries)
 - [Code Analyzers](#code-analyzers)
+- [Other Resources](#other-resources)
 
 
-## Async-Await
+## Async And Await
 
 ### 📝 Articles
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
@@ -50,6 +52,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Async return types (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types)
 - [When to Use Async and Await and How it Works](https://hamidmosalla.com/2018/03/30/when-to-use-async-and-await-and-how-it-works/)
 - [Asynchrony in C# 5 Part Six: Whither async?](https://docs.microsoft.com/en-us/archive/blogs/ericlippert/asynchrony-in-c-5-part-six-whither-async)
+- [Exploring the async/await State Machine – Series Overview](https://vkontech.com/exploring-the-async-await-state-machine-series-overview/)
 - [Exploring the async/await State Machine – The Awaitable Pattern](https://vkontech.com/exploring-the-async-await-state-machine-the-awaitable-pattern/)
 - [Exploring the async/await State Machine – Main Workflow and State Transitions](https://vkontech.com/exploring-the-async-await-state-machine-main-workflow-and-state-transitions/)
 - [Exploring the async/await State Machine – Conceptual Implementation](https://vkontech.com/exploring-the-async-await-state-machine-conceptual-implementation/)
@@ -58,7 +61,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Understanding async/await State Machine in .NET](https://mykkon.work/async-state-machine/)
 - [Fixing the Sync over Async antipattern](https://makolyte.com/fixing-the-sync-over-async-antipattern/)
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
-
+- [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
+- [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
 ## Cancellation
 
 ### 📝 Articles
@@ -108,12 +112,19 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [TaskCompletionSource in real life (part 2 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-2-of-2).htm)
 - [C# : TASK PARALLEL LIBRARY (TPL) WITH ASYNC AWAIT AND TASKCOMPLETIONSOURCE FOR ASYNC I/O OPERATIONS](https://www.techblogcity.com/2019/06/05/task-parallel-library-with-async-await-and-taskcompletionsource/)
 - [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://hamidmosalla.com/2018/05/27/task-run-vs-taskcompletionsource-vs-task-factory-fromasync/)
-- [The Nature of TaskCompletionSource](https://devblogs.microsoft.com/pfxteam/the-nature-of-taskcompletionsourcetresult/)
+- [The Nature of TaskCompletionSource](https://devblogs.microsoft.com/pfxteam/the-nature-of-taskcompletionsourcetresult/) - Stephen Toub
 - [When should TaskCompletionSourceT be used?](https://stackoverflow.com/questions/15316613/when-should-taskcompletionsourcet-be-used)
 - [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://b2n.ir/871581)
+- [The danger of TaskCompletionSource class](https://devblogs.microsoft.com/premier-developer/the-danger-of-taskcompletionsourcet-class/)
 
+## Task
 
+### Articles
+- [Mechanisms for Creating Tasks](https://devblogs.microsoft.com/pfxteam/mechanisms-for-creating-tasks/) - Stephen Toub
+- [Task Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task)
+- [New Task APIs in .NET 4.6](https://devblogs.microsoft.com/pfxteam/new-task-apis-in-net-4-6/) - Stephen Toub
+- [Tasks, Monads, and LINQ](https://devblogs.microsoft.com/pfxteam/tasks-monads-and-linq/) - Stephen Toub
 ## ValueTask
 
 ### 📝 Articles
@@ -337,3 +348,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+## Other Resources
+
+- [Stephen Toub Blog](https://devblogs.microsoft.com/pfxteam/author/toub/)
