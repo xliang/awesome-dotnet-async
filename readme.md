@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
 - [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
+
 ## Cancellation
 
 ### 📝 Articles
@@ -136,7 +137,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 
 ### 📹 Videos
 - [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
-
+- [When to use ValueTask instead of Task and save precious memory in C#](https://www.youtube.com/watch?v=mEhkelf0K6g)
 ## Configure Await
 
 ### 📝 Articles
@@ -201,6 +202,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html) - Stephen Cleary
 - [Async code smells and how to track them down with analyzers - Part I](https://cezarypiatek.github.io/post/async-analyzers-p1/)
 - [Async code smells and how to track them down with analyzers - Part II](https://cezarypiatek.github.io/post/async-analyzers-p2/)
+
+### Videos
+- [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)
+
 ### 🔖 Samples
 - [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
 	> This repository has examples of broken patterns in ASP.NET Core applications
