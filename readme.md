@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
 - [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
+
 ## Cancellation
 
 ### 📝 Articles
@@ -92,7 +93,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](http://www.damirscorner.com/blog/posts/20130722-WrappingOtherAsynchronousPatternsInAwaitableTasks.html)
 - [Task.Factory.StartNew vs Task.Factory.FromAsync](https://stackoverflow.com/questions/17432306/task-factory-startnew-vs-task-factory-fromasync)
-
+- [Task.Run vs Task.Factory.StartNew](https://devblogs.microsoft.com/pfxteam/task-run-vs-task-factory-startnew/)
 
 ## Cpu-Bound
 
@@ -101,7 +102,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 - [Should I expose asynchronous wrappers for synchronous methods?](https://devblogs.microsoft.com/pfxteam/should-i-expose-asynchronous-wrappers-for-synchronous-methods/)
 - [Task.Run Vs TaskCompletionSource Vs Task.Factory.FromAsync](https://b2n.ir/489838)
-
+- [Task.Run vs Task.Factory.StartNew](https://devblogs.microsoft.com/pfxteam/task-run-vs-task-factory-startnew/)
 
 ## TaskCompletionSource
 
@@ -117,7 +118,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Instance of Task class (Task.Factory.StartNew or TaskCompletionSource)](https://stackoverflow.com/questions/5674895/instance-of-task-class-task-factory-startnew-or-taskcompletionsource)
 - [Wrapping Other Asynchronous Patterns in Awaitable Tasks](https://b2n.ir/871581)
 - [The danger of TaskCompletionSource class](https://devblogs.microsoft.com/premier-developer/the-danger-of-taskcompletionsourcet-class/)
-
+- [Mechanisms for Creating Tasks](https://devblogs.microsoft.com/pfxteam/mechanisms-for-creating-tasks/)
 ## Task
 
 ### Articles
@@ -136,7 +137,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 
 ### 📹 Videos
 - [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
-
+- [When to use ValueTask instead of Task and save precious memory in C#](https://www.youtube.com/watch?v=mEhkelf0K6g)
 ## Configure Await
 
 ### 📝 Articles
@@ -199,6 +200,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Cancel Asynchronous Operation In Csharp](https://b2n.ir/n06328) - John Thiriet
 - [C# Async Tips and Tricks](https://cpratt.co/async-tips-tricks/) - Chris Pratt
 - [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html) - Stephen Cleary
+- [Async code smells and how to track them down with analyzers - Part I](https://cezarypiatek.github.io/post/async-analyzers-p1/)
+- [Async code smells and how to track them down with analyzers - Part II](https://cezarypiatek.github.io/post/async-analyzers-p2/)
+
+### Videos
+- [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)
 
 ### 🔖 Samples
 - [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
@@ -352,3 +358,5 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 ## Other Resources
 
 - [Stephen Toub Blog](https://devblogs.microsoft.com/pfxteam/author/toub/)
+- [Links about async/await in C#](https://www.meziantou.net/links-async-await-csharp.htm)
+- [Marc Gravell Blog](https://blog.marcgravell.com/)
