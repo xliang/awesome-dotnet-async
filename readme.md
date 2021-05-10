@@ -75,7 +75,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Destroying threads](https://docs.microsoft.com/en-us/dotnet/standard/threading/destroying-threads)
 - [How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children)
 - [Using CancellationTokens in ASP.NET Core MVC controllers](https://andrewlock.net/using-cancellationtokens-in-asp-net-core-mvc-controllers/)
-
+- [Canceling HTTP Requests in ASP.NET Core with CancellationToken](https://code-maze.com/canceling-http-requests-in-asp-net-core-with-cancellationtoken/)
 ### 🔖 Samples
 
 - [https://github.com/johnthiriet/AsyncTips](https://github.com/johnthiriet/AsyncTips)
