@@ -63,7 +63,9 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Parallel Programming BY examples](http://diranieh.com/NETCSharp/ParallelWithExamples.htm)
 - [Async/Await FAQ](https://devblogs.microsoft.com/pfxteam/asyncawait-faq/)
 - [Are deadlocks still possible with await?](https://devblogs.microsoft.com/pfxteam/are-deadlocks-still-possible-with-await/)
-
+- [Explaining Async and Await in ASP.NET](https://exceptionnotfound.net/using-async-and-await-in-asp-net-what-do-these-keywords-mean/)
+- [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
+- [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
 ## Cancellation
 
 ### 📝 Articles
@@ -126,6 +128,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Task Class](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task)
 - [New Task APIs in .NET 4.6](https://devblogs.microsoft.com/pfxteam/new-task-apis-in-net-4-6/) - Stephen Toub
 - [Tasks, Monads, and LINQ](https://devblogs.microsoft.com/pfxteam/tasks-monads-and-linq/) - Stephen Toub
+- [Serial vs Parallel task execution](https://www.davidguida.net/serial-vs-parallel-task-execution/)
 ## ValueTask
 
 ### 📝 Articles
@@ -202,7 +205,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Eliding Async and Await](https://blog.stephencleary.com/2016/12/eliding-async-await.html) - Stephen Cleary
 - [Async code smells and how to track them down with analyzers - Part I](https://cezarypiatek.github.io/post/async-analyzers-p1/)
 - [Async code smells and how to track them down with analyzers - Part II](https://cezarypiatek.github.io/post/async-analyzers-p2/)
-
+- [Two Ways to Do Async/Await in ASP.NET Wrong (and How to Fix Them)](https://exceptionnotfound.net/two-ways-to-do-async-await-in-asp-net-wrong-and-how-to-fix-them/)
 ### Videos
 - [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)
 
