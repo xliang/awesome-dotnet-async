@@ -66,6 +66,8 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 - [Explaining Async and Await in ASP.NET](https://exceptionnotfound.net/using-async-and-await-in-asp-net-what-do-these-keywords-mean/)
 - [A Practical Example Of Asynchronous Programming in C# and ASP.NET](https://exceptionnotfound.net/asynchronous-programming-asp-net-csharp-practical-guide-refactoring/)
 - [The Ultimate Guide to Async and Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
+- [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+
 ## Cancellation
 
 ### 📝 Articles
