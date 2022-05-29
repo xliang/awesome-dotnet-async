@@ -42,7 +42,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 
 ## Guideline 
 
--[David Folwer - ](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+- [David Folwer - Async guideline ](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 
 ## Async And Await
 
