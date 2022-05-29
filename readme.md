@@ -43,6 +43,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-async
 ## Guideline 
 
 - [David Folwer - Async guideline ](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+- [MSDN - Async Best Practices](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 
 ## Async And Await
 
